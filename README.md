@@ -1,2 +1,2 @@
 # ex-ebac
-Ebac
+Ebac, exemplos de projeto para o curso.
