@@ -1,0 +1,13 @@
+Algoritmo portugol hora de acordar
+
+1- Abrir os olhos
+2 - Desligar Alarme
+3 - Olhar o horario
+4 - Olhar a previsão do tempo 
+5 - Escolher qual roupa usar
+6 - Separar a roupa
+7 - Vestir-se
+8 - Escovar os dentes
+9 - Tomar Agua
+10 - Por a coleira nos cachorros
+11 - levar os cachorro para passear

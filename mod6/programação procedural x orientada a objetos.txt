@@ -1,0 +1,3 @@
+programação procedural = com inicio meio e fim, seguindo todas as etapas
+
+orientada a objetos = pode ser iniciada em qualquer etapa, nao havendo inicio meio e fim
